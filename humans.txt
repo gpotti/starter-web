@@ -7,16 +7,14 @@
 
 # THANKS
 
-    <name>
+  ballalalalalalal    <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
 #somecomment
-<<<<<<< HEAD
 #newcomment
 #blaaah
 #comment from feature branch
 #curio? cat?
-=======
