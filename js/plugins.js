@@ -1,4 +1,8 @@
-// Avoid `console` errors in browsers that lack a console.
+//sdf
+
+asdf
+:wq
+ Avoid `console` errors in browsers that lack a console.
 (function() {
     var method;
     var noop = function () {};
