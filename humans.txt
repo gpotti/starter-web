@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 need to see what happens in conflict
+=======
+no cherry this
+
+>>>>>>> e18d9e8... notcherry
 # humanstxt.org/
 # The humans responsible & technology colophon
 
