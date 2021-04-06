@@ -4,4 +4,3 @@ User-agent: *
 
 # testing rebase
 # testing pull
-#test pull conflict
