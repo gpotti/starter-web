@@ -6,3 +6,4 @@ User-agent: *
 # testing pull
 #stash1
 3purrrrrrr
+#testing fetch like a robot
